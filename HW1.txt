@@ -1,0 +1,18 @@
+package HomeWork1;
+
+public class homework1 
+
+{
+
+	public static void main(String[] args) 
+	
+	{
+		// TODO Auto-generated method stub
+
+	System.out.println("MyName");
+	System.out.println("StreetName=123,County/City=ABC,State=VA,ZIP=98765");
+	
+	}
+	
+
+}
