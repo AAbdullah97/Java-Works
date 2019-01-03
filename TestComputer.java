@@ -5,7 +5,7 @@ public class TestComputer
 
 	public static void main(String[] args) 
 	{
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub like 4413
 
 	Computer comp=new Computer();
 	comp.GetData();
