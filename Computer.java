@@ -33,7 +33,7 @@ public class Computer
 		{
 		
         
-		System.out.println("Version is : " +version);
+		System.out.println("Version was : " +version);
 
 		}
 	}
